@@ -1,4 +1,4 @@
-package com.example.calculatefuelproject.data
+package com.example.calculatefuelproject.models
 
 enum class TypeProgressBar(val title: String, val valueRange: ClosedFloatingPointRange<Float>, val unit: String, val labels: List<Int>) {
     Distance("Distance", 0f..600f,"km", listOf(0, 150, 300, 450, 600)),
