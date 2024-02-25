@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculateFuelProject</string>
+    <string name="fuel_calculator_title">Fuel Calculator</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="travel_price_title">Travel price</string>
+    <string name="average_litres_title">Average litres</string>
+</resources>
