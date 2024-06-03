@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fuel Saver</string>
+    <string name="fuel_calculator_title">Паливний калькулятор</string>
+    <string name="calculate_button">Зберегти</string>
+    <string name="travel_price_title">Ціна поїздки</string>
+    <string name="average_litres_title">Сер. розхід</string>
+    <string name="mask_km">%1$s км</string>
+    <string name="mask_litres_100">"%1$s л/100 "</string>
+    <string name="uah_mask">(%1$s грн)</string>
+    <string name="litres_mask">%1$s літрів</string>
+    <string name="history_title">Історія</string>
+    <string name="distance_progress_bar">Дистанція</string>
+    <string name="gas_progress_bar">Паливо</string>
+    <string name="price_of_litre_progress_bar">Ціна за літр</string>
+    <string name="calculate_bottom_menu">Розрахунок</string>
+    <string name="history_bottom_menu">Історія</string>
+</resources>

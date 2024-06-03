@@ -1,7 +1,17 @@
 <resources>
     <string name="app_name">Fuel Saver</string>
     <string name="fuel_calculator_title">Fuel Calculator</string>
-    <string name="calculate_button">Calculate</string>
+    <string name="calculate_button">Save</string>
     <string name="travel_price_title">Travel price</string>
     <string name="average_litres_title">Average litres</string>
+    <string name="mask_km">%1$s km</string>
+    <string name="mask_litres_100">"%1$s l/100 "</string>
+    <string name="uah_mask">(%1$s UAH)</string>
+    <string name="litres_mask">%1$s litres</string>
+    <string name="history_title">History</string>
+    <string name="distance_progress_bar">Distance</string>
+    <string name="gas_progress_bar">Gas</string>
+    <string name="price_of_litre_progress_bar">Price of litre</string>
+    <string name="calculate_bottom_menu">Calculate</string>
+    <string name="history_bottom_menu">History</string>
 </resources>
