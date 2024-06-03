@@ -11,7 +11,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
 import androidx.navigation.compose.rememberNavController
-import com.techva11.calculatefuelproject.bottom_menu.BottomMenu
+import com.techva11.calculatefuelproject.ui.screens.bottom_menu.BottomMenu
 import com.techva11.calculatefuelproject.route.Navigation
 import com.techva11.calculatefuelproject.ui.theme.GradientFinish
 import com.techva11.calculatefuelproject.ui.theme.GradientStart

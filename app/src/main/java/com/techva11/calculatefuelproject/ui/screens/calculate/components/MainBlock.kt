@@ -15,7 +15,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import com.techva11.calculatefuelproject.R
 import com.techva11.calculatefuelproject.models.TypeProgressBar
-import com.techva11.calculatefuelproject.shared.ButtonCustom
+import com.techva11.calculatefuelproject.ui.shared.ButtonCustom
 import com.techva11.calculatefuelproject.ui.MainViewModel
 import com.techva11.calculatefuelproject.ui.theme.BackGround
 
